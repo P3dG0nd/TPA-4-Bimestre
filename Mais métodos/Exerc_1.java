@@ -1,4 +1,4 @@
-import java.util. *;
+import java.util.*;
 public class Exerc_1 {
 	public static void main (String[] args) {
 		double x = valor_investido(0,0,0);
