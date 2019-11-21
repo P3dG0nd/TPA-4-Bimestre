@@ -1,7 +1,7 @@
 /*Criar uma matriz 4x4 
  * de inteiros sendo que cada elemento da matriz 
- * ser· preenchido com o dobro do elemento anterior 
- * (o elemento[0][0] ser· o 2).
+ * ser√° preenchido com o dobro do elemento anterior 
+ * (o elemento[0][0] ser√° o 2).
  */
 import java.util.Scanner;
 public class exer01 {
